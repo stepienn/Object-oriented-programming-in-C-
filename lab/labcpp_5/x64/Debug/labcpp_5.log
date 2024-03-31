@@ -1,0 +1,9 @@
+﻿  Data.cpp
+  Kierownik.cpp
+  ListaPracownikow.cpp
+  main.cpp
+  Napis.cpp
+  Pracownik.cpp
+C:\Users\Filip\Downloads\labcpp_5\labcpp_5\Napis.cpp(27,29): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  labcpp_5.vcxproj -> C:\Users\Filip\Downloads\labcpp_5\labcpp_5\x64\Debug\labcpp_5.exe
